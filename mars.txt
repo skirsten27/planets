@@ -4,4 +4,10 @@ But the Mummy will appreciate the lack of humidity
 Forgot to add the last bit
 
 New lines New lines New lines are coool
-VERY NEW LINESSSSSSS
+VERY NEW LINESSSSS
+
+<<<<<<< HEAD
+We added a different line in the other copy
+=======
+This line added to Wolfman's copy
+>>>>>>> dabb4c8c450e8475aee9b14b4383acc99f42af1d
