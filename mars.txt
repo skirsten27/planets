@@ -3,3 +3,9 @@ The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
 Forgot to add the last bit
 Add lines
+New lines New lines New lines are coool
+VERY NEW LINESSSSS
+We added a different line in the other copy
+This line added to Wolfman's copy
+>>>>>>> dabb4c8c450e8475aee9b14b4383acc99f42af1d
+>>>>>>> 5ce478d446e2a1b3dd50d0fc84c927e50a2da0bb
